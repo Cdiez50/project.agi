@@ -18,7 +18,7 @@ play test.wav
 # On le supprime
 rm -f test.wav
 # et le point news
-rm -f ../tmp../tmp//info
+rm -f ../tmp/info
 
 # On quitte
 exit
