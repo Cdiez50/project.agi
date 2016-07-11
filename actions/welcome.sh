@@ -3,7 +3,7 @@
 #
 # En cours de dev par Cdiez50
 #
-###
+####
 
 # On ajoute la dernière news 
 get_last_news=$(curl http://www.lemonde.fr/rss/une.xml) 
