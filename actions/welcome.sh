@@ -1,6 +1,5 @@
 #!/bin/sh
 #
-#
 # En cours de dev par Cdiez50
 #
 ####
