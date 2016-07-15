@@ -31,6 +31,8 @@ Il faut appuyer l'application comme un FS (filesystem) indépendant. De fait la 
         /protos 
         /logs 
         /clients
+	/var
+	/lib
 
 ### Description du système :
 
